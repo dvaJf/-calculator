@@ -14,7 +14,6 @@ public class Ravno : MonoBehaviour
     private string TextAnaliz;
     private string AnalizSymbol;
     private string AnalizSymbolS;
-    //секретный режим
     public void ButonRavno()
     {
         string TextProverka = ButonS.IkranText;
